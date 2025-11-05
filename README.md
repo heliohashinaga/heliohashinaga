@@ -99,3 +99,5 @@ Quality: SonarQube, Unit Testing, Integration Testing
 
 # 📫 Contact
 Email: heliohashinaga@gmail.com
+
+Linkedin: [heliohashinaga](www.linkedin.com/in/heliohashinaga)
