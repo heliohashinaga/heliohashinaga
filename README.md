@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliohashinaga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heliohashinaga@gmail.com)
-[![Location](https://img.shields.io/badge/São_Paulo-Brazil-green?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+![Location](https://img.shields.io/badge/São_Paulo-Brazil-green?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
