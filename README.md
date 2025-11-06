@@ -89,10 +89,6 @@ const helio = {
 
 ## 💼 Expertise
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏗️ Architecture
 - Microservices Design
 - Event Sourcing & CQRS
@@ -100,19 +96,12 @@ const helio = {
 - API Design (REST/gRPC/SOAP)
 - System Migrations
 
-</td>
-<td width="50%" valign="top">
-
 ### 🎯 Domains
 - Fraud Detection
 - Payment Systems
 - Billing Platforms
 - Enterprise Integration
 - High-Traffic Systems
-
-</td>
-</tr>
-</table>
 
 ---
 
