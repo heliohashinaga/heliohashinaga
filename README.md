@@ -75,6 +75,9 @@ const helio = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-E84D2E?style=for-the-badge&logo=bruno&logoColor=white)
 
+### Authentication
+![Azure AD B2C](https://img.shields.io/badge/Azure_AD_B2C-0078D4?style=for-the-badge&logo=azure-ad-b2c&logoColor=white)
+
 ### Data & Analytics
 ![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
