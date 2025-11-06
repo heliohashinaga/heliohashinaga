@@ -77,6 +77,33 @@ const helio = {
 
 ---
 
+## 🔗 Enterprise Integrations
+
+Experience integrating and building solutions with major enterprise and payment platforms.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Payment & Billing
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Bill.com](https://img.shields.io/badge/Bill.com-00A95C?style=for-the-badge)
+![Chargebee](https://img.shields.io/badge/Chargebee-FF6B35?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Business Platforms
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💼 Expertise
 
 <table>
@@ -128,7 +155,6 @@ const helio = {
 
 + Cloud Provider Migration
   └─ Executing migration from Azure to AWS
-
 ```
 
 ---
@@ -170,7 +196,7 @@ const helio = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliohashinaga)
 
-**📍 São Paulo, Brazil | 💼 Remote **
+**📍 São Paulo, Brazil | 💼 Remote**
 
 </div>
 
