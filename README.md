@@ -195,7 +195,7 @@ Experience integrating and building solutions with major enterprise and payment 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliohashinaga)
 
-**📍 São Paulo, Brazil | 💼 Remote**
+**📍 Carapicuíba, SP, Brazil | 💼 Remote**
 
 </div>
 
