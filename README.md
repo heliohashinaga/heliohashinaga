@@ -20,6 +20,7 @@ const helio = {
     experience: "13+ years",
     location: "São Paulo, Brazil 🇧🇷",
     workMode: "Remote 🏠",
+    languages: ["Portuguese (Native)", "English (Advanced)", "Spanish (Basic)"],
     
     specialties: [
         "Fraud Detection Systems",
