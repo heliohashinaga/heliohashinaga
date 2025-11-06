@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Helio Higuchi Hashinaga
 
-### Senior Software Engineer | System Architect | 13+ Years Experience
+### 👨‍👩‍👧 Dad & Husband | 💻 Tech Enthusiast | ☕ Coffee Lover | 👨‍💼 Senior Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliohashinaga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heliohashinaga@gmail.com)
