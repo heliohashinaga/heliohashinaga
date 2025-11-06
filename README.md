@@ -204,7 +204,7 @@ Experience integrating and building solutions with major enterprise and payment 
 <div align="center">
   
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-**- Martin Fowler**
+**- Fowler, Martin**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heliohashinaga&color=blueviolet&style=flat-square&label=Profile+Views)
 
