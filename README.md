@@ -134,6 +134,15 @@ Experience integrating and building solutions with major enterprise and payment 
 
 ---
 
+## 💡 Leadership & Mentorship
+
+- 👥 **Tech Lead** experience on enterprise projects
+- 📝 Code review and architectural guidance
+- 🎓 Mentoring junior and mid-level developers
+- 🚨 Production incident resolution and on-call experience
+
+---
+
 ## 🏆 Key Achievements
 ```diff
 + Fraud Detection Optimization
@@ -174,15 +183,6 @@ Experience integrating and building solutions with major enterprise and payment 
 - 🦀 Rust Programming Language
 - ☁️ Cloud-Native Architectures
 - 🔄 Advanced Distributed Systems Patterns
-
----
-
-## 💡 Leadership & Mentorship
-
-- 👥 **Tech Lead** experience on enterprise projects
-- 📝 Code review and architectural guidance
-- 🎓 Mentoring junior and mid-level developers
-- 🚨 Production incident resolution and on-call experience
 
 ---
 
