@@ -117,8 +117,8 @@ Experience integrating and building solutions with major enterprise and payment 
 
 ### 💳 Payment & Billing
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Bill.com](https://img.shields.io/badge/Bill.com-00A95C?style=for-the-badge)
 ![Chargebee](https://img.shields.io/badge/Chargebee-FF6B35?style=for-the-badge)
+![Bill.com](https://img.shields.io/badge/Bill.com-00A95C?style=for-the-badge)
 
 </td>
 <td width="50%" valign="top">
