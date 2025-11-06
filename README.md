@@ -155,7 +155,7 @@ Experience integrating and building solutions with major enterprise and payment 
   └─ Implemented cloud-native patterns
 
 + Cloud Provider Migration
-  └─ Executing migration from Azure to AWS
+  └─ Executing cloud migration from Azure to AWS
 ```
 
 ---
