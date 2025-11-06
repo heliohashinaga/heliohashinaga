@@ -186,18 +186,6 @@ Experience integrating and building solutions with major enterprise and payment 
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliohashinaga)
-
-**📍 Carapicuíba, SP, Brazil | 💼 Remote**
-
-</div>
-
----
-
 <div align="center">
   
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
