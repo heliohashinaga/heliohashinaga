@@ -155,20 +155,8 @@ Experience integrating and building solutions with major enterprise and payment 
 
 ## 📊 GitHub Stats
 
-<table border="0">
-<tr>
-<td width="50%" valign="top">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heliohashinaga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</td>
-<td width="50%" valign="top">
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heliohashinaga&layout=compact&theme=tokyonight&hide_border=true)
-
-</td>
-</tr>
-</table>
 
 ---
 
