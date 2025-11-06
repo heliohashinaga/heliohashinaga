@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Helio Hashinaga
+# 👋 Hi, I'm Helio Higuchi Hashinaga
 
 ### Senior Software Engineer | System Architect | 13+ Years Experience
 
