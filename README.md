@@ -153,9 +153,6 @@ Experience integrating and building solutions with major enterprise and payment 
 + On-Premise → Cloud Migration
   ├─ Executed full migration strategy
   └─ Implemented cloud-native patterns
-
-+ Cloud Provider Migration
-  └─ Executing cloud migration from Azure to AWS
 ```
 
 ---
