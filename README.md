@@ -115,8 +115,8 @@ Beyond day-to-day engineering, I'm designing and shipping multi-agent developer 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heliohashinaga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heliohashinaga&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=heliohashinaga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=heliohashinaga&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
