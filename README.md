@@ -17,10 +17,8 @@
 ```typescript
 const helio = {
   role: "Senior Software Engineer",
-  company: "Serasa Experian",
   experience: "13+ years building enterprise systems",
   location: "Carapicuíba, SP, Brazil",
-  workMode: "Remote",
   languages: ["Portuguese (Native)", "English (Advanced)", "Spanish (Basic)"],
 
   specialties: [
