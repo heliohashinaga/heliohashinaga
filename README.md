@@ -99,6 +99,7 @@ Beyond day-to-day engineering, I'm designing and shipping multi-agent developer 
 ## 🔗 Enterprise Integrations
 
 **Business Platforms:** SAP · Salesforce · HubSpot
+
 **Payments & Billing:** Stripe · Chargebee · Bill.com
 
 ---
