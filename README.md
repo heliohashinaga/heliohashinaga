@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Helio Higuchi Hashinaga
+# 👋 Hi, I'm Helio Hashinaga
 
 ### Senior Software Engineer · Dad, Husband, Tech Enthusiast
 
